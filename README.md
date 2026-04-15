@@ -12,9 +12,9 @@
 
 ---
 
-✨ A modern custom Lovelace card built exclusively for **AR Smart Scheduler**, designed to give you a clean, intuitive, and installer-friendly way to view and control your schedules directly from the Home Assistant dashboard.
+✨ A modern custom Lovelace card built exclusively for **AR Smart Scheduler**, designed to give you a clean, intuitive, and installer-friendly way to view and control your schedules directly from the Home Assistant dashboard once set.
 
-This card is purpose-built to work hand-in-hand with the AR Smart Scheduler integration, providing a seamless frontend experience for managing scheduled automations such as lights, pumps, gates, garage doors, and more — all without needing to dive into complex settings or backend configuration.
+
 
 ---
 
