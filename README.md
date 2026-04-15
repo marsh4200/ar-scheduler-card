@@ -34,12 +34,6 @@ Without the integration:
 
 ---
 
-## 🎯 Built with purpose
-
-This card was created with real-world installations in mind — where simplicity, clarity, and reliability matter. Instead of exposing users to complex automation logic, the AR-Scheduler-Card provides a straightforward interface that makes schedule control easy and accessible.
-
----
-
 ## 🚀 Seamless integration
 
 When used together with AR Smart Scheduler, this card delivers:
