@@ -1,5 +1,11 @@
 # 🗓️ AR-Scheduler-Card
 
+## ⚠️ Important
+
+🚫 This card **is not a standalone component**  
+🔗 It **requires the AR Smart Scheduler integration** to be installed and fully configured  
+---
+
 [![GitHub release](https://img.shields.io/github/v/release/marsh4200/ar-scheduler-card.svg)](https://github.com/marsh4200/ar-scheduler-card/releases)  
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-blue.svg)](https://github.com/custom-components/hacs)  
 [![Add to HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=marsh4200&repository=ar-scheduler-card&category=plugin)
@@ -12,10 +18,7 @@ This card is purpose-built to work hand-in-hand with the AR Smart Scheduler inte
 
 ---
 
-## ⚠️ Important
 
-🚫 This card **is not a standalone component**  
-🔗 It **requires the AR Smart Scheduler integration** to be installed and fully configured  
 
 Without the integration:
 - No entities will be available  
